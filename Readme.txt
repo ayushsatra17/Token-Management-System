@@ -1,3 +1,4 @@
+JDBC Project:
 1) Java netbeans(8.2 ide) code :
 i) The code is in two classes – RegisterFrame.java and
 DisplayFrame.java, under the project name ‘CaseStudy’
